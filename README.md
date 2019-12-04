@@ -1,2 +1,2 @@
 # AndreaLucia
-explicacón de la tarea
+explicación de la tarea
