@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   color: orange;
   text-size: 30px;
-  text-font: bangers;
+  font-family: bangers;
 }
 
 h2 {
@@ -11,7 +11,7 @@ margin-left: 2em;
 
 p {
 margin-left: 3em;
-text-family: verdana;
+font-family: verdana;
 
 }
 
@@ -22,6 +22,6 @@ background-color: orange;
 }
 
 .final {
-text-family: Bangers;
+font-family: Bangers;
 }
   
