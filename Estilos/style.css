@@ -4,10 +4,13 @@ h1 {
 }
 
 p {
+  margin-left: 2em;
 text-family: verdana;
 }
 
 ul {
-border-style: dashed;
+margin-left: 2em;
+margin-right: 2em;
+  background-color: orange;
 }
   
