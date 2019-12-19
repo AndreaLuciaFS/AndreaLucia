@@ -1,16 +1,26 @@
 h1 {
   text-align: center;
   color: orange;
+  text-size: 30px;
+}
+
+h2 {
+margin-left: 2em;
 }
 
 p {
-  margin-left: 2em;
+margin-left: 3em;
 text-family: verdana;
+
 }
 
 ul {
-margin-left: 2em;
-margin-right: 2em;
-  background-color: orange;
+margin-left: 4em;
+margin-right: 4em;
+background-color: orange;
+}
+
+.final {
+text-family: sacramento;
 }
   
