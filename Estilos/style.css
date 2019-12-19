@@ -1,6 +1,13 @@
-p {
-color: red;
-  text-size: 20px;
-}
 h1 {
+  text-align: center;
+  color: orange;
+}
+
+p {
+text-family: verdana;
+}
+
+ul {
+border-style: dashed;
+}
   
