@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   color: orange;
   text-size: 50px;
-  font-family: pacifico;
+  font-family: "Pacifico";
 }
 
 h2 {
@@ -23,6 +23,6 @@ font-family: verdana;
 }
 
 .final {
-font-family: pacifico;
+font-family: "Pacifico";
 }
   
