@@ -1,13 +1,2 @@
-draw = function() {
-    fill(0, 255, 68); // start color
-    if (mouseIsPressed && mouseY < 200) {
-        fill(255, 0, 0);
-    }
-    rect(0, 0, 400, 200);  // the button
-
-    // The button text
-    fill(255, 255, 255);
-    textSize(30);
-    text("Press me!", 145, 115);
-};
-
+var miTitulo = document.querySelector('h1');
+miTitulo.innerHTML = 'Hello world!';
