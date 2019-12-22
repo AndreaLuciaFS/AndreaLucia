@@ -1,8 +1,11 @@
+html{
+background-color: #000000;  
+}
 h1 {
   text-align: center;
   color: orange;
   text-size: 50px;
-  font-family: "Pacifico";
+  font-family: "Kreon";
 }
 
 h2 {
