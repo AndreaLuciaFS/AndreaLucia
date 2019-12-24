@@ -8,11 +8,12 @@ h1 {
 
 h2 {
 margin-left: 2em;
+font-family: 'Indie Flower', cursive;
 }
 
 p {
 margin-left: 3em;
-font-family: verdana;
+font-family: 'Indie Flower', cursive;
 
 }
 
@@ -20,7 +21,7 @@ ul {
 margin-left: 4em;
 margin-right: 4em;
 background-color: orange;
-font-family: verdana;
+font-family: 'Indie Flower', cursive;
 }
 
 img {
