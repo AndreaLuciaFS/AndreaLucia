@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   color: orange;
   text-size: 50px;
-  font-family: 'Calistoga', cursive; ;
+  font-family: 'Pacifico', cursive; 
 }
 
 h2 {
@@ -23,7 +23,12 @@ background-color: orange;
 font-family: verdana;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 .final {
-font-family: 'Calistoga', cursive;;
+font-family: 'Pacifico', cursive;
 }
   
