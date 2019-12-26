@@ -20,9 +20,9 @@ var button = document.getElementById("button");
     var name = document.getElementById("name").value;
     var lang = document.getElementById("personalidad").value;
     var raza;
-    if (lang === "es") {
+    if (lang === "tra") {
         raza = name + ", nosotros creemos que te vendría bien un Shar Pei, debido a su carácter tranquilo y sencillo";
-    } else if (lang === "plt") {
+    } else if (lang === "hi") {
         raza = name + ", nosotros creemos que te vendría bien un Labrador, por su carácter juguetón";
     } else {
         raza = name + ", nosotros creemos que te vendría bien un Bichón maltés, un Carlino o un Beagel, por ser los más cariñosos";
