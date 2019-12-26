@@ -22,6 +22,10 @@ font-family: 'Indie Flower', cursive;
 
 }
 
+{
+  #texto_blanco {color: white;}
+}
+
 ul {
 margin-left: 4em;
 margin-right: 4em;
