@@ -5,8 +5,6 @@ Las páginas web realizadas con Github en las que nos hemos basado han sido:
 
 -El CO2 en el cambio climático (https://elpais.com/especiales/2019/el-co2-en-el-cambio-climatico/)
 
--Ilusionism o con Github (https://cristinafsanz.github.io/github-pages/#slide=1)
-
 Aquí debajo también os dejamos el enlace a nuestra web creada con esta gran aplicación:
 https://andrealuciafs.github.io/AndreaLucia/
 
