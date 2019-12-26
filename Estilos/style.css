@@ -11,7 +11,12 @@ margin-left: 2em;
 font-family: 'Bebas Neue', cursive;
 }
 
-p, label {
+p {
+margin-left: 3em;
+font-family: 'Indie Flower', cursive;
+
+}
+#rec {
 margin-left: 3em;
 font-family: 'Indie Flower', cursive;
 
