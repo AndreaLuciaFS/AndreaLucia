@@ -32,4 +32,9 @@ img {
 .final {
 font-family: 'Pacifico', cursive;
 }
+
+#perro {
+  position: absolute;
+  rigth: 0px;
+}
   
