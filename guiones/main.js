@@ -1,7 +1,6 @@
-var imagenes=Array("imágenes/","img_2.jpg","img_3.jpg");
+var imagenes=Array("imágenes/Imagen perro adopción.jpg","imágenes/perro feliz adopción.jpg");
 	var imagenVisible=0;
  
-	// Función que cambia la imagen actual por la siguiente
 	function cambiar(img)
 	{
 		imagenVisible++;
@@ -13,10 +12,6 @@ var imagenes=Array("imágenes/","img_2.jpg","img_3.jpg");
 		cargarSiguienteImagen();
 	}
  
-	/**
-	 * Esta función carga la siguiente imagen para no tener que esperar su carga
-	 * en el momento de mostrarla.
-	 */
 	function cargarSiguienteImagen()
 	{
 		if((imagenVisible+1)<imagenes.length)
