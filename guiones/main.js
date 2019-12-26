@@ -31,3 +31,8 @@ var button = document.getElementById("button");
   };
   // Step 3: Attach event listener to element
   button.addEventListener("click", onButtonClick);
+
+function cambiarImagenJS(){
+  document.getElementById("img1").src="imágenes/perro feliz adopción.jpg";
+}
+ 
