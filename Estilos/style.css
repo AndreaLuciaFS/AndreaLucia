@@ -11,7 +11,7 @@ margin-left: 2em;
 font-family: 'Bebas Neue', cursive;
 }
 
-p {
+p, div {
 margin-left: 3em;
 font-family: 'Indie Flower', cursive;
 
@@ -37,4 +37,5 @@ font-family: 'Pacifico', cursive;
   position: absolute;
   rigth: 0px;
 }
+
   
