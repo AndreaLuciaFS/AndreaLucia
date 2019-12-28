@@ -32,13 +32,13 @@ var button = document.getElementById("button");
   
   button.addEventListener("click", onButtonClick);
 
-let myImage = document.querySelector ('img');
+let myImage = document.querySelector('img');
 
-myImage.onclick = function () {
-    let mySrc = myImage.getAttribute ('src');
-    if (mySrc === 'imágenes / Imagen perro adopción.jpg') {
-      myImage.setAttribute ('src', 'imágenes / perro feliz adopción.jpg');
-    } más {
-      myImage.setAttribute ('src', 'imágenes / Imagen perro adopción.jpg');
+myImage.onclick = function() {
+    let mySrc = myImage.getAttribute('src');
+    if(mySrc === 'imágenes/Imagen perro adopción.jpg') {
+      myImage.setAttribute ('src', 'imágenes/perro feliz adopción.jpg');
+    } else {
+      myImage.setAttribute ('src', 'imágenes/Imagen perro adopción.jpg');
     }
 }
