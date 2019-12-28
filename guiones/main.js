@@ -29,10 +29,16 @@ var button = document.getElementById("button");
     }
     document.getElementById("message").textContent += raza;  
   };
-  // Step 3: Attach event listener to element
+  
   button.addEventListener("click", onButtonClick);
 
-function cambiarImagenJS(){
-  document.getElementById("img1").src="imágenes/perro feliz adopción.jpg";
+let myImage = document.querySelector ('img');
+
+myImage.onclick = function () {
+    let mySrc = myImage.getAttribute ('src');
+    if (mySrc === 'imágenes / Imagen perro adopción.png') {
+      myImage.setAttribute ('src', 'imágenes / perro feliz adopción.png');
+    } más {
+      myImage.setAttribute ('src', 'imágenes / Imagen perro adopción.png');
+    }
 }
- 
