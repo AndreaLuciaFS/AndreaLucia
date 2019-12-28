@@ -18,9 +18,9 @@ let myImage = document.querySelector('img');
 myImage.onclick = function() {
   let mySrc = myImage.getAttribute('src');
   if(mySrc === 'imágenes/Imagen perro adopción.jpg') {
-    myImage.setAttribute ('src','imágenes/perro feliz adopción.png');
+    myImage.setAttribute ('src','imágenes/perro feliz adopción.jpg');
   } else {
-    myImage.setAttribute ('src','imágenes/Imagen perro adopción.png');
+    myImage.setAttribute ('src','imágenes/Imagen perro adopción.jpg');
   }
 }
 
